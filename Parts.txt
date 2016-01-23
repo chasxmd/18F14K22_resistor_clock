@@ -1,2 +1,5 @@
-http://ww1.microchip.com/downloads/en/DeviceDoc/41365D.pdf
+18F14K22    http://ww1.microchip.com/downloads/en/DeviceDoc/41365D.pdf
+Use PORT C0 for LED data output
+
+
 
